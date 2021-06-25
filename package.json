@@ -1,0 +1,22 @@
+{
+  "name": "netlify-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnharkinz/netlify-serverless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnharkinz/netlify-serverless/issues"
+  },
+  "homepage": "https://github.com/johnharkinz/netlify-serverless#readme",
+  "devDependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
